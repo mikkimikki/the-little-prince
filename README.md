@@ -1,2 +1,2 @@
-# the-little-prince
+# TheLittlePrince
 TheLittlePrince
